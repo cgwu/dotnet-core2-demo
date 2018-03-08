@@ -1,6 +1,7 @@
 {
   "name": "myproject",
   "dependencies": {
-    "jquery": "~3.3.1"
+    "jquery": "~3.3.1",
+    "moment": "momentjs#2.21.0"
   }
 }
